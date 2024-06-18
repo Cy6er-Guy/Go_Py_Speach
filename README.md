@@ -1,4 +1,3 @@
-Absolument ! Voici le contenu sous forme de code Markdown pour votre fichier README :
 
 ```markdown
 # Application Flask de Génération de Speech
