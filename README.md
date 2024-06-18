@@ -63,6 +63,3 @@ pip install flask gtts
 ## Auteur
 
 - Cy6er_Guy
-```
-
-Ce code Markdown structuré vous permet de documenter clairement les fonctionnalités, les prérequis, les instructions d'installation, d'utilisation, la structure des fichiers, ainsi que de mentionner l'auteur de l'application Flask de génération de speech. Assurez-vous de remplacer les placeholders comme `https://github.com/votre-utilisateur` par les liens et les informations appropriés pour votre projet.
